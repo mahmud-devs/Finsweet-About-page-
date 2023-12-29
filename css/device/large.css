@@ -1,0 +1,135 @@
+@media (max-width: 991.98px) {
+    /* ========nav part=========== */
+    .navbar-nav {
+        margin-top: 40px;
+    }
+    .nav-item {
+        background: var(--Yellow);
+        width: 100%;
+        text-align: center;
+        margin: 0px 0 20px;
+        padding: 10px 0;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+    .menuLink {
+        color: var(--primary__textColor);
+        width: 100%;
+    }
+    .menuLink:hover {
+        color: var(--primary_bgColor);
+    }
+    .cmnBtn {
+        margin-left: 0px;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    /* ========nav part=========== */
+    /* ========banner part=========== */
+    #banner_part {
+        padding: 70px 0;
+    }
+    .about__title {
+        max-width: 100%;
+    }
+    .about__summary {
+        max-width: 100%;
+    }
+    .images {
+        width: 100%;
+    }
+
+    /* ========banner part=========== */
+    /* ========goal part=========== */
+    .process__summary {
+        max-width: 100%;
+    }
+    .circle {
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .circle::after {
+        width: 235px;
+        left: -95px;
+        top: 135%;
+    }
+    /* ========goal part=========== */
+    /* ========mission part=========== */
+    #mission_part {
+        padding: 70px 0;
+        text-align: center;
+    }
+
+    .mission__summary {
+        max-width: 100%;
+        text-align: justify;
+        text-align-last: center;
+    }
+    .mission__wrapper {
+        row-gap: 45px;
+    }
+
+    /* ========mission part=========== */
+    /* ========benefit part=========== */
+    #benefit_part {
+        padding: 70px 0;
+    }
+    .featureItem {
+        min-height: 282px;
+    }
+
+
+    /* ========benefit part=========== */
+    /* ========team part=========== */
+
+    .team {
+        padding: 48px 64px 38px 64px;
+        background: var(--white);
+    }
+    .team__title {
+        font-size: 28px;
+    }
+
+    .team__summary {
+        font-size: 20px;
+    }
+
+    /* ========team part=========== */
+    /* ========coppy part=========== */
+    .coppyTitle {
+        font-size: 15px;
+    }
+
+    .coppyLink {
+        font-size: 15px;
+    }
+
+
+
+
+    /* ========coppy part=========== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

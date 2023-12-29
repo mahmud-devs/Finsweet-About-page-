@@ -1,0 +1,28 @@
+@media (max-width: 1399.98px) { 
+
+    /* ===========benefit part======== */
+
+    .featureItem {
+       min-height: 329px;
+    }
+
+
+
+    /* ===========benefit part======== */
+    /* ===========team part======== */
+
+    .team__title {
+        font-size: 21px;
+    }
+
+    .team {
+        padding: 48px 55px 32px 55px;
+    }
+
+    /* ===========team part======== */
+
+
+
+
+
+}

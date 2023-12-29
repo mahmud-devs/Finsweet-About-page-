@@ -1,0 +1,77 @@
+@media (max-width: 1199.98px) {
+    /* ==============banner part============ */
+    #banner_part {
+        padding: 100px 0;
+    }
+
+    /* ==============banner part============ */
+    /* ==============goal part============ */
+
+    #goal_part {
+        padding-bottom: 100px;
+    }
+    .goalMain {
+        padding: 60px 60px 60px 60px;
+    }
+
+    .goal__title {
+        font-size: 30px;
+        margin-bottom: 14px;
+    }
+
+    .goal__summary {
+        font-size: 14px;
+        line-height: 25px;
+        text-align: justify;
+    }
+    .process__title {
+        margin-top: 90px;
+    }
+    .circle::after {
+        width: 150px;
+        left: 40px;
+    }
+
+    /* ==============goal part============ */
+    /* ==============mission part============ */
+
+    #mission_part {
+        padding: 100px 0;
+    }
+    /* ==============mission part============ */
+    /* ==============benefit part============ */
+    #benefit_part {
+        padding: 100px 0;
+    }
+    .brandLogo {
+        padding-right: 20px;
+    }
+    .brand__counter {
+        font-size: 30px;
+    }
+    .brand__summary {
+        font-size: 14px;
+    }
+    /* ==============benefit part============ */
+    /* ==============feature part============ */
+    .featureItem {
+        padding: 45px 25px 40px 35px;
+    }
+    .featureItem__title {
+        font-size: 22px;
+    }
+    .featureItem__summary {
+        text-align: justify;
+        font-size: 15px;
+    }
+    /* ==============feature part============ */
+    /* ==============team part============ */
+    #team_part {
+        padding: 100px 0;
+    }
+    .team {
+        padding: 30px 30px 35px 30px;
+    }
+
+    /* ==============team part============ */
+}
