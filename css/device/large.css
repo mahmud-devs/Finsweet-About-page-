@@ -101,7 +101,9 @@
     .team__summary {
         font-size: 20px;
     }
-
+    .Oicon__item{
+        font-size: 22px;
+    }
     /* ========team part=========== */
     /* ========coppy part=========== */
     .coppyTitle {
@@ -111,7 +113,9 @@
     .coppyLink {
         font-size: 15px;
     }
-
+    .contactInfo {
+        font-size: 13px;
+    }
 
 
 
