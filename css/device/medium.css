@@ -1,0 +1,73 @@
+@media (max-width: 767.98px) {
+    /* ============mission part============ */
+    .featureItem {
+        padding: 35px 15px 40px 25px;
+    }
+    .featureItem__summary {
+        font-size: 13px;
+    }
+
+    /* ============mission part============ */
+    /* ============team part============ */
+
+    .team__title {
+        font-size: 21px;
+    }
+    .team__summary {
+        font-size: 18px;
+    }
+    .team {
+        padding: 40px 48px 35px 48px;
+    }
+    .teamOverlay__icon {
+        top: 60%;
+    }
+    .Oicon__item {
+        font-size: 18px;
+    }
+
+
+
+    /* ============team part============ */
+    /* ============footer part============ */
+    .footerLeft__summary {
+        max-width: 100%;
+    }
+    .footerRight__summary {
+        max-width: 100%;
+    }
+
+    .footerIcon {
+        justify-content: center;
+    }
+
+
+    /* ============footer part============ */
+    /* ============coppy part============ */
+    .coppyTitle {
+        width: 100%;
+    }
+    .copynav{
+        width: 100%;
+        justify-content: center;
+        margin-top: 25px;
+        padding: 0;
+        margin-bottom: 0;
+    }
+    /* ============coppy part============ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
